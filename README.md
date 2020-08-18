@@ -6,4 +6,4 @@ This practice will display all data added into the database in Practice 1. In ad
 
 
 
-The detailed tutorial can be found from https://github.com/BaerSy/display/blob/master/Nodejs%20MySQL%20Tutorial.pdf
+The detailed tutorial can be found from https://github.com/AScodre/display_data/blob/master/Nodejs%20MySQL%20Tutorial.pdf
